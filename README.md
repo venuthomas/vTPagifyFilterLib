@@ -30,13 +30,13 @@ These steps must be adhered to when using this package with **IEnumerable** coll
 To install the package, choose one of the following commands:
 ##### .NET CLI:
 ```
-  dotnet add package PagifyFilter
+  dotnet add package vTPagifyFilterLib
 ```
 
 ##### Package manager:
 
 ```
-Install-Package PagifyFilter
+Install-Package vTPagifyFilterLib
 ```
 
 ### Usage
